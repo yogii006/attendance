@@ -1,6 +1,5 @@
 import cv2
-!pip install dlib
-!pip install face_recognition
+import dlib
 import numpy as np
 import face_recognition
 import streamlit as st
